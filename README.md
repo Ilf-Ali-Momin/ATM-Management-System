@@ -1,4 +1,4 @@
-# ATM-MANAGEMNET_SYSTEM
+# ATM-Management-System
 The project provides a comprehensive solution for managing ATMs efficiently. It includes features such as user authentication, balance inquiry, cash withdrawal, fund transfer, transaction history, and administrative functionalities. The code is well-structured and implements object-oriented principles, ensuring modularity and extensibility.
 
 ![image](https://github.com/Mominnest/ATM-MANAGEMNET_SYSTEM/assets/109297627/1ec3abd1-2cca-4d1f-bec9-e40435b801c7)
